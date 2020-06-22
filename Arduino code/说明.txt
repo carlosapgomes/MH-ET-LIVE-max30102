@@ -1,3 +1,10 @@
 ﻿1.SPO2文件夹中是测量血氧和心率的综合程序；
 2.MH_MAX3010x_Sensor_Library-master文件夹中一共有7个小程序，每个小程序实现一个简单功能，具体作用看工程名称。
 使用方法是将MH_MAX3010x_Sensor_Library-master文件夹放进arduino 安装目录的libraries文件夹里。然后在arduino的文件>>示例中打开例子，依次测试；
+
+
+1. Na pasta SPO2, existe um programa abrangente para medir o oxigênio no sangue e a freqüência cardíaca;
+2. Existem 7 applets na pasta MH_MAX3010x_Sensor_Library-master, cada applet realiza uma função simples, a função específica depende do nome do projeto.
+O método de uso é colocar a pasta MH_MAX3010x_Sensor_Library-master na pasta de bibliotecas do diretório de instalação do arduino. Em seguida, abra o exemplo no Arquivo >> Exemplos do arduino e teste por sua vez;
+
+
