@@ -1,6 +1,12 @@
 ﻿功能实现：采用STM32F103C8T6小板，驱动血氧心率传感器max30102，实现PPG信号采集，并将计算的心率和血氧值显示在0.96寸OLED和串口上。
 软件实现：ST标准库3.5
 硬件连接：
+Function realization: The STM32F103C8T6 small board is used to drive the blood oxygen heart rate sensor max30102 to realize PPG signal collection, and the calculated heart rate and blood oxygen value are displayed on the 0.96 inch OLED and serial port.
+Software implementation: ST Standard Library 3.5
+Hardware connection:
+
+
+
 MAX30102:
 	VCC<->3.3V
 	GND<->GND
